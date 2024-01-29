@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -937,8 +937,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 64760000
+      m_LastClickedID: 30308
       m_ExpandedIDs: 0afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1111,7 +1111,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PROMETEO - Car Controller
+    - Assets/PROMETEO - Car Controller/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1121,15 +1121,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PROMETEO - Car Controller
+  - Assets/PROMETEO - Car Controller/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\UNITY\Prueba Assets\My project
+  m_LastProjectPath: D:\UNITY\UnityGame\Prueba Assets\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 78}
-    m_SelectedIDs: 04770000
-    m_LastClickedID: 30468
+    m_SelectedIDs: 6c770000
+    m_LastClickedID: 30572
     m_ExpandedIDs: 000000000477000006770000087700000a7700000c77000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1187,7 +1187,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000909c0000cc9c00001c78000020780000667f0000da7c0000dc7c000052780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
